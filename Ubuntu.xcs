@@ -1,0 +1,23 @@
+[Ubuntu Style]
+text(bold)=ffffff
+magenta(bold)=8080c0
+text=ffffff
+white(bold)=d3d7cf
+green=4e9a06
+red(bold)=cc0000
+green(bold)=4e9a06
+black(bold)=000000
+red=dc0000
+blue=3d65a4
+black=000000
+blue(bold)=3d65a4
+yellow(bold)=ffff00
+cyan(bold)=00ffff
+yellow=ffff00
+magenta=8080c0
+background=330d26
+white=c0c0c0
+cyan=00bbbb
+[Names]
+count=1
+name0=Ubuntu Style
